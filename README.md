@@ -1,1 +1,1 @@
-# ContiRansomware---Analysis
+# ContiRansomware-Analysis
